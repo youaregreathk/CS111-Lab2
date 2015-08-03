@@ -8,15 +8,15 @@
 # If you have any other information you'd like us to know, please add it at
 # the end of the file.
 
-# Partner 1
-Name: Your Name Here
-Student ID: Your ID Here
-Email: Your Email Here
+#Partner 1
+Name: Kwai Hung Shea
+Student ID:304497354
+Email: shea.3100@gmail.com
 
-# Partner 2
-#Name: Partner's Name Here
-#Student ID: Partner's ID Here
-#Email: Partner's Email Here
+#Partner 2
+Name: Fnu Pramono
+Student ID:604498984
+Email:wangpramono@gmail.com
 
 
 # Add any other information you'd like us to have below this line.

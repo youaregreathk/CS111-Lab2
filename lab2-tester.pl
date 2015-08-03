@@ -166,8 +166,14 @@ close FOO;
       ') 2>/dev/null',
       "aX"
     ],
-    );
+    
 
+# deadlock cases
+	#18
+	[ 'echo foo | ./osprdaccess -w -l /dev/osprda /dev/osprda',
+	"ioctl OSPRDIOCACQUIRE: Resource deadlock avoided"
+	]
+	);
 my($ntest) = 0;
 
 my($sh) = "bash";
